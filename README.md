@@ -81,7 +81,7 @@ Here's a breakdown of the SQL queries included in this project:
         Select Location, Population,date, MAX(total_cases) as HighestInfectionCount, Max((total_cases/population))*100 as PercentPopulationInfected From PortfolioProject1..CovidDeaths$ Group by Location, Population, date order by PercentPopulationInfected desc
         ```
 * **Original Queries:**
-    * The second set of queries provided in the sql file are the original queries used in the project, that were shortened for the video. They are provided as reference.
+    * The second set of queries provided in the sql file are the original queries used in the project,  They are provided as reference.
 
 ## License
 
