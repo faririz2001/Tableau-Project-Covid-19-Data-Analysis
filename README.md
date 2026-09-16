@@ -466,8 +466,8 @@ I plan to extend this project by:
 
 # 👨‍💻 Author
 
-**[Your Name]**
+**Fareeha Rizwan**
 
-Aspiring Data Analyst | SQL | Power BI | Excel | Python
+Data Analyst | SQL | Power BI | Excel | Python
 
 This project is part of my data analytics portfolio and demonstrates my ability to explore, transform, and analyze real-world datasets using SQL Server.
